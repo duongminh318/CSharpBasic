@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineAbstractClassAndInte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineAbstractClassAndInterfacePractice", "CombineAbstractClassAndInterfacePractice\CombineAbstractClassAndInterfacePractice.csproj", "{F6409D4B-36CE-4E95-948A-E477D51D7EA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationSample", "EncapsulationSample\EncapsulationSample.csproj", "{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F6409D4B-36CE-4E95-948A-E477D51D7EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6409D4B-36CE-4E95-948A-E477D51D7EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6409D4B-36CE-4E95-948A-E477D51D7EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
