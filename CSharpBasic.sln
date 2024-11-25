@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineAbstractClassAndInte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationSample", "EncapsulationSample\EncapsulationSample.csproj", "{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationSample", "EnumerationSample\EnumerationSample.csproj", "{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E2173D2-6AD9-4E5F-9DF9-DFEE477783C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
