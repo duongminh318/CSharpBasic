@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationSample", "Enca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationSample", "EnumerationSample\EnumerationSample.csproj", "{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSample", "MathSample\MathSample.csproj", "{7D5C5B40-5E2E-4491-9560-1C8E1520DB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPractice1", "MathPractice1\MathPractice1.csproj", "{06D4257E-38B7-4F16-8D1D-384AE03BFC12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27009255-8C6C-425F-9ED4-5EF2F0E72AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5C5B40-5E2E-4491-9560-1C8E1520DB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5C5B40-5E2E-4491-9560-1C8E1520DB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5C5B40-5E2E-4491-9560-1C8E1520DB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5C5B40-5E2E-4491-9560-1C8E1520DB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D4257E-38B7-4F16-8D1D-384AE03BFC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D4257E-38B7-4F16-8D1D-384AE03BFC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D4257E-38B7-4F16-8D1D-384AE03BFC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D4257E-38B7-4F16-8D1D-384AE03BFC12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
