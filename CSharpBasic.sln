@@ -53,6 +53,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQueryExample", "LinqQue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQCollectionSample", "LINQCollectionSample\LINQCollectionSample.csproj", "{D6148DA3-4E7E-40F0-B493-5D210DDF1F56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSample1", "EventSample1\EventSample1.csproj", "{CDBE2528-EBFC-44CB-B607-D48B6AE8F235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPractice1", "EventPractice1\EventPractice1.csproj", "{CD439727-A3B2-4D39-B276-36F7C669850C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPractice2", "EventPractice2\EventPractice2.csproj", "{1C21BCF7-D40E-4CE0-9473-99CA0B1F647A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +165,18 @@ Global
 		{D6148DA3-4E7E-40F0-B493-5D210DDF1F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6148DA3-4E7E-40F0-B493-5D210DDF1F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6148DA3-4E7E-40F0-B493-5D210DDF1F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBE2528-EBFC-44CB-B607-D48B6AE8F235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBE2528-EBFC-44CB-B607-D48B6AE8F235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBE2528-EBFC-44CB-B607-D48B6AE8F235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBE2528-EBFC-44CB-B607-D48B6AE8F235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD439727-A3B2-4D39-B276-36F7C669850C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD439727-A3B2-4D39-B276-36F7C669850C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD439727-A3B2-4D39-B276-36F7C669850C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD439727-A3B2-4D39-B276-36F7C669850C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C21BCF7-D40E-4CE0-9473-99CA0B1F647A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C21BCF7-D40E-4CE0-9473-99CA0B1F647A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C21BCF7-D40E-4CE0-9473-99CA0B1F647A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C21BCF7-D40E-4CE0-9473-99CA0B1F647A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
